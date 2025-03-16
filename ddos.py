@@ -58,7 +58,7 @@ while True:
             fip = f"1{n1}{n2}.{n3}{n4}{n5}.{n6}.{n7}"
             y = random.choice(user_agents)
             url = ip
-            urls = ['https://www.dpr.go.id', 'https://www.yandex.com', 'https://eiht.my.id', 'https://www.google.com', 'https://www.nasa.gov', 'https://www.cia.gov', 'https://spacex.com', 'https://lahelu.com', 'https://data.gov.il', 'https://kosred.com', 'https://pornhub.com']
+            urls = ['https://multiai.id']
             res = random.choice(urls)
             headers = {
                 "User-Agent": f"{y}",
